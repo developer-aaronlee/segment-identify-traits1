@@ -3,7 +3,7 @@ import json
 import requests
 
 url = 'https://api.segment.io/v1/identify'
-API_KEY = 'Basic akplVGEyU0FUb1V6c0NFYVNXQ01BREY2TTB0M2drcmU6'
+API_KEY = 'Basic api_key'
 headers = {
     'Content-Type': 'application/json',
     'Authorization': API_KEY
